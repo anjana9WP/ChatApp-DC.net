@@ -1,0 +1,173 @@
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\bin\Debug\ClientWPF.exe.config
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\bin\Debug\ClientWPF.exe
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\bin\Debug\ClientWPF.pdb
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\bin\Debug\Database.dll
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\bin\Debug\ServerInterface.dll
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\bin\Debug\Database.pdb
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\bin\Debug\ServerInterface.pdb
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\ClientWPF.csproj.AssemblyReference.cache
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\ClientWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\ChatRoomWindow.g.cs
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\FileViewer.g.cs
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\App.g.cs
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.cache
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.lref
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\ChatRoomWindow.baml
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\FileViewer.baml
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\MainWindow.baml
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\ClientWPF.g.resources
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\ClientWPF.Properties.Resources.resources
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\ClientWPF.csproj.GenerateResource.cache
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\ClientWPF.csproj.CoreCompileInputs.cache
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\ClientWPF.csproj.CopyComplete
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\ClientWPF.exe
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\ClientWPF\obj\Debug\ClientWPF.pdb
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\bin\Debug\ClientWPF.exe.config
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\bin\Debug\ClientWPF.exe
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\bin\Debug\ClientWPF.pdb
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\bin\Debug\Database.dll
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\bin\Debug\ServerInterface.dll
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\bin\Debug\Database.pdb
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\bin\Debug\ServerInterface.pdb
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.csproj.AssemblyReference.cache
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\ChatRoomWindow.g.cs
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\FileViewer.g.cs
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\App.g.cs
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.cache
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.lref
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\ChatRoomWindow.baml
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\FileViewer.baml
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\MainWindow.baml
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.g.resources
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.Properties.Resources.resources
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.csproj.GenerateResource.cache
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.csproj.CoreCompileInputs.cache
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.csproj.CopyComplete
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.exe
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.pdb
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\ClientWPF.exe.config
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\ClientWPF.exe
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\ClientWPF.pdb
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\Database.dll
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\ServerInterface.dll
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\Database.pdb
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\ServerInterface.pdb
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.csproj.AssemblyReference.cache
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\MainWindow.baml
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ChatRoomWindow.g.cs
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\FileViewer.g.cs
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\MainWindow.g.cs
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\App.g.cs
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.cache
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.lref
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ChatRoomWindow.baml
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\FileViewer.baml
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.g.resources
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.Properties.Resources.resources
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.csproj.GenerateResource.cache
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.csproj.CoreCompileInputs.cache
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.csproj.CopyComplete
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.exe
+C:\Users\user 1\Desktop\DC Updated Chat\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.pdb
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\ClientWPF.exe.config
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\ClientWPF.exe
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\ClientWPF.pdb
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\Database.dll
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\ServerInterface.dll
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\Database.pdb
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\ServerInterface.pdb
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.csproj.AssemblyReference.cache
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\MainWindow.baml
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ChatRoomWindow.g.cs
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\FileViewer.g.cs
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\MainWindow.g.cs
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\App.g.cs
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.cache
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.lref
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ChatRoomWindow.baml
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\FileViewer.baml
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.g.resources
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.Properties.Resources.resources
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.csproj.GenerateResource.cache
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.csproj.CoreCompileInputs.cache
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.csproj.CopyComplete
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.exe
+C:\Users\user 1\Desktop\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.pdb
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\ClientWPF.exe.config
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\ClientWPF.exe
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\ClientWPF.pdb
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\Database.dll
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\ServerInterface.dll
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\Database.pdb
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\bin\Debug\ServerInterface.pdb
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.csproj.AssemblyReference.cache
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\MainWindow.baml
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ChatRoomWindow.g.cs
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\FileViewer.g.cs
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\App.g.cs
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.cache
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.lref
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ChatRoomWindow.baml
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\FileViewer.baml
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.g.resources
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.Properties.Resources.resources
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.csproj.GenerateResource.cache
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.csproj.CoreCompileInputs.cache
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.csproj.CopyComplete
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.exe
+C:\Users\Anjana\Downloads\DC_ChatApp(Updated UI V2)\DC_ChatApp(Updated UI)\ClientWPF\obj\Debug\ClientWPF.pdb
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\bin\Debug\ClientWPF.exe.config
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\bin\Debug\ClientWPF.exe
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\bin\Debug\ClientWPF.pdb
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\bin\Debug\Database.dll
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\bin\Debug\ServerInterface.dll
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\bin\Debug\Database.pdb
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\bin\Debug\ServerInterface.pdb
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.csproj.AssemblyReference.cache
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\MainWindow.baml
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\ChatRoomWindow.g.cs
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\FileViewer.g.cs
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\App.g.cs
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.cache
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.lref
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\ChatRoomWindow.baml
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\FileViewer.baml
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.g.resources
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.Properties.Resources.resources
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.csproj.GenerateResource.cache
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.csproj.CoreCompileInputs.cache
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.csproj.CopyComplete
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.exe
+C:\Users\Anjana\Downloads\DC_ChatApp(Final)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.pdb
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\bin\Debug\ClientWPF.exe.config
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\bin\Debug\ClientWPF.exe
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\bin\Debug\ClientWPF.pdb
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\bin\Debug\Database.dll
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\bin\Debug\ServerInterface.dll
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\bin\Debug\Database.pdb
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\bin\Debug\ServerInterface.pdb
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.csproj.AssemblyReference.cache
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\MainWindow.baml
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\ChatRoomWindow.g.cs
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\FileViewer.g.cs
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\App.g.cs
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.cache
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.lref
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\ChatRoomWindow.baml
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\FileViewer.baml
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.g.resources
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.Properties.Resources.resources
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.csproj.GenerateResource.cache
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.csproj.CoreCompileInputs.cache
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.csproj.CopyComplete
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.exe
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(20463382)\DC_ChatApp\ClientWPF\obj\Debug\ClientWPF.pdb
