@@ -1,0 +1,26 @@
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\Server\bin\Debug\Server.exe.config
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\Server\bin\Debug\Server.exe
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\Server\bin\Debug\Server.pdb
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\Server\bin\Debug\Database.dll
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\Server\bin\Debug\ServerInterface.dll
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\Server\bin\Debug\Database.pdb
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\Server\bin\Debug\ServerInterface.pdb
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\Server\obj\Debug\Server.exe
+C:\Users\Anjana\Downloads\ChatServer-master\ChatServer-master\Server\obj\Debug\Server.pdb
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(Updated UI)\Server\bin\Debug\Server.exe.config
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(Updated UI)\Server\bin\Debug\Server.exe
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(Updated UI)\Server\bin\Debug\Server.pdb
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(Updated UI)\Server\bin\Debug\Database.dll
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(Updated UI)\Server\bin\Debug\ServerInterface.dll
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(Updated UI)\Server\bin\Debug\Database.pdb
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(Updated UI)\Server\bin\Debug\ServerInterface.pdb
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(Updated UI)\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(Updated UI)\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(Updated UI)\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(Updated UI)\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(Updated UI)\Server\obj\Debug\Server.exe
+C:\Users\Anjana\Documents\Curtin docs\Third Year\Second Semester\COMP3008 Distributed Computing\Assignment_1\DC_ChatApp(Updated UI)\Server\obj\Debug\Server.pdb
