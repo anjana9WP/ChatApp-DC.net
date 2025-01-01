@@ -1,2 +1,5 @@
 # ChatApp-DC.net
- Created a chat app using .NET WCF for real-time communication. Implemented user authentication, chat rooms, private messaging, and file sharing (images/text). Designed a WPF client with multi-threading for real-time updates and efficient message handling.
+-Developed a chat application using .NET WCF for real-time serverclient communication.
+-Implemented user authentication, chat room management, and private messaging functionality.
+-Integrated file-sharing for images and text files between users within chat rooms.
+-Designed a WPF-based client with multi-threading for real-time updates and message handling.
